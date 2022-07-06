@@ -1,0 +1,6 @@
+**/*.xcodeproj
+.DS_Store
+*.txt
+*.o
+*.out
+.vscode
